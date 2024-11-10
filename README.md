@@ -1,4 +1,5 @@
 # Amazon-ML-Challenge
+We got 102 Rank with score of 0.54 over 2600+ teams.
 
 #Problem Statement:
 The objective of this hackathon is to build a machine learning solution that can derive critical information from images. This capability is essential for industries such as e-commerce, healthcare, and content management, where accurate product details are crucial. As online marketplaces grow, numerous products are displayed with limited descriptive text, making it important to identify specifics like weight, dimensions, wattage, and volume from images alone.
